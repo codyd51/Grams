@@ -1,0 +1,9 @@
+Package: org.thebigboss.grams
+Name: Grams
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks
